@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "calculadora-josue",
+    "react-calculator": "calculadora-josue"
+  }
+}
